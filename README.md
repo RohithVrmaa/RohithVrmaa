@@ -49,6 +49,9 @@ I'm a software developer and a Diploma in Computer Engineering student focused o
   <a href="https://www.threads.net/@RohithVrmaa" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" />
   </a>
+  <a href="https://www.instagram.com/RohithVrmaa" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
+  </a>
   <a href="https://www.linkedin.com/in/RohithVrmaa" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </a>
